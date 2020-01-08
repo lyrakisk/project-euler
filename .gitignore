@@ -1,2 +1,5 @@
 # Editor settings
 .idea/**
+out/**
+
+project-euler.iml
