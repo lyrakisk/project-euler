@@ -1,7 +1,6 @@
 package main.java;
 
 import java.math.BigInteger;
-import java.util.Arrays;
 
 import static main.java.Problem_3.isPrime;
 
