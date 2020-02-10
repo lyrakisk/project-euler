@@ -2,6 +2,7 @@ package main.java;
 
 import java.math.BigInteger;
 
+
 import static main.java.Problem_3.isPrime;
 
 public class Problem_10 {
